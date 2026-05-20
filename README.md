@@ -90,3 +90,25 @@ Transfer market, clan management, and true community features.
 ---
 
 ## 📂 Project Structure (relevant for contributors)
+public/
+├── headtohead.jpg
+├── universe.jpg
+├── statsmaps.jpg
+├── universeplayer.jpg
+├── statsteam.jpg
+├── vrspredictmitte.jpg
+├── landing3.jpg
+├── news1start.jpg
+├── home1.jpg
+├── home2.jpg
+└── ...
+
+---
+
+**Ready to dominate the CS2 stats game?**  
+⭐ Star the repo and join the movement!
+
+
+
+*Made with passion for the CS2 scene by the GG-U.com Team.*
+
