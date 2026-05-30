@@ -1,4 +1,4 @@
-# Good Gaming United (GG-U)
+# Good Game United (GG-U)
 
 **The Official CS2 Intelligence Platform**  
 Real-time analytics • Valve VRS • Player & Team Stats • Predictions • Community
